@@ -1,0 +1,31 @@
+{
+  "scale_level": 0,
+  "scale_pixels": [
+    9,
+    28,
+    55,
+    108,
+    218
+  ],
+  "point_size": 1,
+  "p1_color": "red",
+  "p2_color": "blue",
+  "p3_color": "#00ffff",
+  "p4_color": "yellow",
+  "p5_color": "purple",
+  "hotkey1": "R",
+  "hotkey2": "T",
+  "hotkey3": "Y",
+  "hotkey4": "U",
+  "hotkey5": "I",
+  "hotkey_toggle": "Ctrl+\u0007",
+  "hotkey_center": "]",
+  "hotkey_recog": "Ctrl+CTRL_R",
+  "lite_width": 300,
+  "lite_height": 200,
+  "lite_off_x": 27,
+  "lite_off_y": -14,
+  "text_size": 13,
+  "match_threshold": 0.72,
+  "recognize_interval": 0.5
+}
